@@ -7,6 +7,7 @@ This Excel project provides a comprehensive analysis of sales data, offering val
 - **Project objective:** 
 
     **1.** Create a _[customer performance report]
+  
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
   
    **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -20,6 +21,7 @@ This Excel project provides a comprehensive analysis of sales data, offering val
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
+  
     **2.** Create Profit and Loss (P&L) reports by _[Markets]
 
 **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
